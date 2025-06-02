@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Inventoryweb-thumnail](https://user-images.githubusercontent.com/47371845/205918923-dcc3b42f-4d67-46af-9bd1-d6b577b868cb.jpg)
 
 ## *:information_source: Tokoweb*
@@ -104,3 +105,7 @@ username: `manajer` password: `12345678`
 ![dcda1efd-7060-42cb-845e-d6b1c5dd85b7](https://user-images.githubusercontent.com/47371845/204021259-67c28a2c-141f-4632-9c7f-0be855aa1b46.png)
 ![d50d104b-6d77-499a-be5b-eb80ad6f6c35](https://user-images.githubusercontent.com/47371845/204021276-fd3219b8-37fb-42a6-852a-6e20e3206b48.png)
 
+=======
+# TOKO-WEB
+Aplikasi ini bisa anda gunakan untuk mengontrol stock barang yang anda miliki sehingga jelas transaksi keluar dan masuk barang tersebut juga mempermudah kontrol barang tersebut.
+>>>>>>> 4c3a93d3c08ceecfb631ec4e7596c33100e884b4
