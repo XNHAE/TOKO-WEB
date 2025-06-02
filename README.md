@@ -1,5 +1,5 @@
 
-## *:information_source: Tokoweb*
+## *:information_source: TOKOWEB*
 Aplikasi ini bisa anda gunakan untuk mengontrol stock barang yang anda miliki sehingga jelas transaksi keluar dan masuk barang tersebut juga mempermudah kontrol barang tersebut.
 <br><br>
 Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash admin`.
@@ -38,7 +38,7 @@ Untuk tampilannya saya sudah pasang template admin `bootstrap v5` yaitu `sash ad
 #### :arrow_right: Clone Project / Download File
 Clone Project dengan perintah terminal `gitbash` sebagai berikut:
 ```
-git clone git@github.com:radhiant/laravel-inventoryweb.git
+git clone git@github.com:TOKOWEB/laravel-tokoweb.git
 ```
 Atau bisa klik tombol download Zip dan extrak file tersebut
 #### :arrow_right: Buat Database
@@ -57,7 +57,7 @@ composer install
 php artisan storage:link
 ```
 #### :arrow_right: Import Database
-Import file database `db_inventoryweb.sql` yang ada di folder `database/db` ke phpmyadmin 
+Import file database `db_tokoweb.sql` yang ada di folder `database/db` ke phpmyadmin 
 
 #### :arrow_right: Jalankan Aplikasi
 ```
