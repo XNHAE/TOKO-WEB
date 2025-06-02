@@ -75,7 +75,6 @@ username: `operator` password: `12345678`
 username: `manajer` password: `12345678`
 
 ## *:desktop_computer: Preview*
-![(https://github.com/XNHAE/TOKO-WEB/blob/main/image.png)]
 ![35ace435-364a-4687-ad3d-cb20c8919f54](https://github.com/XNHAE/TOKO-WEB/blob/main/Images/Login.png)
 ![b0a513c2-c7e7-4098-860e-a67c620f315d](https://github.com/XNHAE/TOKO-WEB/blob/main/Images/Dashboard%20masuk.png)
 ![46e7cb6f-f5e5-4d83-8f13-6b0ac51783de](https://github.com/XNHAE/TOKO-WEB/blob/main/Images/Jenis%20Barang.png)
